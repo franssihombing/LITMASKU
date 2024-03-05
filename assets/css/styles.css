@@ -1141,8 +1141,8 @@ button:focus {
 }
 
 .dark-vertion .mh-service .mh-service-item {
-  -webkit-box-shadow: 10px 10px 19px #1c1e22, -10px -10px 19px #1b1f27;
-  box-shadow: 10px 10px 19px #1c1e22, -10px -10px 19px #1b1f27;
+  /* -webkit-box-shadow: 10px 10px 19px #1c1e22, -10px -10px 19px #1b1f27;
+  box-shadow: 10px 10px 19px #1c1e22, -10px -10px 19px #1b1f27; */
 }
 
 .dark-vertion .mh-home .img-border {
@@ -1555,10 +1555,12 @@ li .fa {
 .mh-about .mh-about-inner h2 {
   margin-bottom: 20px;
   margin-top: 20px;
+  color: #000;
 }
 
 .mh-about .mh-about-inner p {
   margin-bottom: 30px;
+  color: #000;
 }
 
 .mh-about .mh-about-inner .btn {
@@ -1587,6 +1589,7 @@ li .fa {
   border: 1px solid #00E8F8;
   padding: 4px 10px;
   border-radius: 4px;
+  color: #000;
 }
 
 .mh-about-tag ul li span:hover {
@@ -3261,6 +3264,11 @@ li .fa {
 .mh-service .mh-service-item {
   padding: 20px;
   border-radius: 4px;
+  margin: 20px;
+}
+
+.mh-service h3{
+  color: #000;
 }
 
 .mh-service .mh-service-item .fa {
@@ -3285,6 +3293,7 @@ li .fa {
   margin-bottom: 18px;
   font-size: 25px;
   line-height: 34px;
+  color: floralwhite;
 }
 
 .mh-service .mh-service-item a {

@@ -624,19 +624,19 @@ button:focus {
 
 .form-control {
   padding: 20px;
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
+  -webkit-box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
 }
 
 .form-control:focus {
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
+  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
   border-color: transparent;
 }
 
 .contact-message {
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
+  -webkit-box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
   background-color: transparent;
   border-color: transparent;
   margin-bottom: 20px;
@@ -646,8 +646,8 @@ button:focus {
 }
 
 .contact-message:focus {
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
+  -webkit-box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
   border-color: transparent;
 }
 
@@ -1076,43 +1076,43 @@ button:focus {
 }
 
 .dark-vertion .mh-footer .form-control {
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
+  -webkit-box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
 }
 
 .dark-vertion .mh-footer .form-control:focus {
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
+  -webkit-box-shadow: 0 0px 2px 0 rgba(19, 19, 19, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
 }
 
 .dark-vertion .mh-footer .contact-message {
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
+  -webkit-box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
 }
 
 .dark-vertion .mh-footer .contact-message:focus {
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
+  -webkit-box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
 }
 
 .dark-vertion .mh-footer-2 .form-control {
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
+  -webkit-box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
 }
 
 .dark-vertion .mh-footer-2 .form-control:focus {
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
+  -webkit-box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(7, 7, 7, 0.8);
 }
 
 .dark-vertion .mh-footer-2 .contact-message {
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
+  -webkit-box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(2, 2, 2, 0.8);
+  box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
 }
 
 .dark-vertion .mh-footer-2 .contact-message:focus {
-  -webkit-box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
-  box-shadow: 0 0px 2px 0 rgba(255, 255, 255, 0.8), 0 0px 1px 1px rgba(255, 255, 255, 0.8);
+  -webkit-box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
+  box-shadow: 0 0px 2px 0 rgba(0, 0, 0, 0.8), 0 0px 1px 1px rgba(0, 0, 0, 0.8);
 }
 
 .dark-vertion .mh-work .mh-experience-deatils .mh-work-item {

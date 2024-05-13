@@ -1,0 +1,28 @@
+.col-2 {
+    width: 100%;
+}
+
+.col-2 > * {
+    width: calc(90% / 2);
+    box-sizing: border-box;
+}
+
+
+.col-3 {
+    width: 100%;
+}
+
+.col-3 > * {
+    width: calc(90% / 3);
+    box-sizing: border-box;
+}
+
+
+.flex-wrap{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.center{
+    justify-content: center;
+}
